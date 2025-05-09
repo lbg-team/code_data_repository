@@ -2,7 +2,7 @@
 
 PLEASE ADD HERE
 ## Available Codes
-- [LBG Sandbox]([https://pages.github.com/](https://github.com/jfcrenshaw/lbg_sandbox))
+- [LBG Sandbox](https://github.com/jfcrenshaw/lbg_sandbox)
 - item2
 - item3
 
